@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app77/homePageContent.dart';
+import 'package:flutter_app77/home_page_content.dart';
 
 class MyHomePage extends StatelessWidget {
   @override
